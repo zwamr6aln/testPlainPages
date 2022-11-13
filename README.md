@@ -11,5 +11,8 @@
 
 [another page](another-page)
 
+* * *
 
 [__Pages link__](https://zwamr6aln.github.io/testPlainPages)
+
+[sitemap.xml](sitemap.xml)
