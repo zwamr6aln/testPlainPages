@@ -1,15 +1,15 @@
----
-description: {{ site.time }}
----
+
+{{ site.time }}
 
 # testPlainPages
 
 [https://github.com/zwamr6aln/testPlainPages](https://github.com/zwamr6aln/testPlainPages)
-
-[Pages link](https://zwamr6aln.github.io/testPlainPages)
 
 [markdownSample.md](markdownSample)
 
 [htmlCssSample](htmlCssSample)
 
 [another page](another-page)
+
+
+[__Pages link__](https://zwamr6aln.github.io/testPlainPages)
