@@ -1,3 +1,7 @@
+---
+title: {{ site.time }}
+---
+
 # testPlainPages
 
 [https://github.com/zwamr6aln/testPlainPages](https://github.com/zwamr6aln/testPlainPages)
