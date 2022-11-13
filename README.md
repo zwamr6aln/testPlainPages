@@ -1,5 +1,5 @@
 ---
-title: {{ site.time }}
+description: {{ site.time }}
 ---
 
 # testPlainPages
