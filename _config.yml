@@ -1,6 +1,7 @@
 
 title: title test
 lang: ja
+timezone: Asia/Tokyo
 
 plugins:
   - jekyll-sitemap
